@@ -1,0 +1,9 @@
+Customer,Product,Sales,Region
+Usha,Laptop,50000.0,south
+Ravi,Phone,20000.0,NORTH
+Shali,Tablet,50000.0,South
+Sasi,Laptop,50000.0,south
+Hyma,Phone,,East
+Sravs,Tablet,15000.0,WEST
+Chandana,Laptop,45000.0,North
+Nani,Phone,-500.0,east

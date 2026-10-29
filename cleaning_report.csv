@@ -1,0 +1,9 @@
+Metric,Value
+Original Number of Rows,8.0
+Cleaned Number of Rows,8.0
+Original Number of Columns,4.0
+Missing Sales Values Before Cleaning,1.0
+Missing Values After Cleaning,0.0
+Negative Sales Values Before Cleaning,1.0
+Duplicate Rows Before Cleaning,0.0
+Total Sales After Cleaning,325000.0
